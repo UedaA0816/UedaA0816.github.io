@@ -19,7 +19,8 @@ exclude_repos:
 #  - other-repo
 
 skills:
-#  language:
+  React: |-
+  express: |-
 
 exclude_skills:
 #  - other-language
