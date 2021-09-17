@@ -21,6 +21,8 @@ exclude_repos:
 skills:
   React: |-
   express: |-
+  AWS: |-
+       AWS SAA 2021.08.01 合格
 
 exclude_skills:
 #  - other-language
