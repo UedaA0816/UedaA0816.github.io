@@ -20,6 +20,7 @@ exclude_repos:
 
 skills:
   React:      |-
+  Angular:    |-
   express:    |-
   AWS:        |-
               AWS SAA 2021.08.01 合格
