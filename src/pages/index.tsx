@@ -85,8 +85,7 @@ export async function getStaticProps(): Promise<GetStaticPropsResult<HomeProps>>
       user, socialMediaConfig, repos, skills, skillLogoConfig, history, others,
       titles       : config.system.titles,
       sort_repos_by: config.system.sort_repos_by
-    },
-    revalidate: 3
+    }
   };
 }
 
